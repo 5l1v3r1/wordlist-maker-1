@@ -1,2 +1,2 @@
 # wordlist-maker
- ##Personal Wordlist Maker
+ ## Personal Wordlist Maker
