@@ -1,0 +1,12 @@
+C:\Users\turkl\source\repos\TurKLoJeN Wordlist Maker\TurKLoJeN Wordlist Maker\bin\Debug\TurKLoJeN Wordlist Maker.exe.config
+C:\Users\turkl\source\repos\TurKLoJeN Wordlist Maker\TurKLoJeN Wordlist Maker\bin\Debug\TurKLoJeN Wordlist Maker.exe
+C:\Users\turkl\source\repos\TurKLoJeN Wordlist Maker\TurKLoJeN Wordlist Maker\bin\Debug\TurKLoJeN Wordlist Maker.pdb
+C:\Users\turkl\source\repos\TurKLoJeN Wordlist Maker\TurKLoJeN Wordlist Maker\obj\Debug\TurKLoJeN Wordlist Maker.csproj.AssemblyReference.cache
+C:\Users\turkl\source\repos\TurKLoJeN Wordlist Maker\TurKLoJeN Wordlist Maker\obj\Debug\TurKLoJeN_Wordlist_Maker.Properties.Resources.resources
+C:\Users\turkl\source\repos\TurKLoJeN Wordlist Maker\TurKLoJeN Wordlist Maker\obj\Debug\TurKLoJeN Wordlist Maker.csproj.GenerateResource.cache
+C:\Users\turkl\source\repos\TurKLoJeN Wordlist Maker\TurKLoJeN Wordlist Maker\obj\Debug\TurKLoJeN Wordlist Maker.csproj.CoreCompileInputs.cache
+C:\Users\turkl\source\repos\TurKLoJeN Wordlist Maker\TurKLoJeN Wordlist Maker\obj\Debug\TurKLoJeN Wordlist Maker.exe
+C:\Users\turkl\source\repos\TurKLoJeN Wordlist Maker\TurKLoJeN Wordlist Maker\obj\Debug\TurKLoJeN Wordlist Maker.pdb
+C:\Users\turkl\source\repos\TurKLoJeN Wordlist Maker\TurKLoJeN Wordlist Maker\obj\Debug\TurKLoJeN_Wordlist_Maker.Form1.resources
+C:\Users\turkl\source\repos\TurKLoJeN Wordlist Maker\TurKLoJeN Wordlist Maker\obj\Debug\TurKLoJeN_Wordlist_Maker.Form2.resources
+C:\Users\turkl\source\repos\TurKLoJeN Wordlist Maker\TurKLoJeN Wordlist Maker\obj\Debug\TurKLoJeN_Wordlist_Maker.Form3.resources
